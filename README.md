@@ -1,4 +1,4 @@
-## Commando mas comunes de github:
+## Commandos mas comunes de github:
 
 1. **git init**: Crea un nuevo repositorio Git en el directorio actual.
 2. **git clone  _URL_**: Clona un repositorio Git existente desde una URL remota.
